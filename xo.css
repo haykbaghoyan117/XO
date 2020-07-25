@@ -1,0 +1,24 @@
+.border {
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+}
+.kubik {
+    background-color: rgb(139, 136, 132);
+    width: 23px;
+    height: 23px;
+    border: 1px solid black;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+}
+.end {
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 200px;
+
+}
